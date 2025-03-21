@@ -1,3 +1,4 @@
+![logo](https://github.com/Saswati-18/Saswati-18/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Saswati Sadhu</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
