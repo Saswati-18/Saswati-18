@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 
-- 🌱 I’m currently learning **SQL,Python,Power BI**
+- 🌱 I’m currently learning **SQL,Python,Pandas,Numpy,Matplotlib,Seaborn,Power BI,Tableau**
 
 - 📫 How to reach me **saswativirat18@gmail.com**
 
