@@ -43,14 +43,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saswati-18&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" />
-</p>
-
----
-
 ## 🎓 Education & Certifications
 
 🎓 **Bachelor of Business Administration** — Techno India,Kolkata (2020-23)
