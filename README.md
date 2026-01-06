@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saswati-s-37138b210/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.datascienceportfol.io/saswatisadhu"><img src="https://img.shields.io/badge/MyEveryLink-38BDF8?style=for-the-badge&logo=link&logoColor=white" /></a>
+  <a href="https://www.datascienceportfol.io/saswatisadhu"><img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&logo=link&logoColor=white" /></a>
 </p>
 
 ---
@@ -38,7 +38,12 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql&perline=11" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="48" alt="Excel" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="48" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi-2021.png" height="48" alt="Power BI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="48" alt="Google Sheets" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="48" alt="PowerPoint" />
 </p>
 
 ---
